@@ -1,0 +1,54 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     4064 MB
+    Driver:   21.21.13.7667
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity Projects\Laser Game 3D\v2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity Projects\Laser Game 3D\v2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Laser Game 3D\v2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unity Projects\Laser Game 3D\v2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Laser Game 3D\v2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Unity Projects\Laser Game 3D\v2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Laser Game 3D\v2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Unity Projects\Laser Game 3D\v2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Laser Game 3D\v2_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading E:\Unity Projects\Laser Game 3D\v2_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Laser Game 3D\v2_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\Unity Projects\Laser Game 3D\v2_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.193 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 38.907592 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2e08 -> priority: 1 
+  Thread -> id: 18b4 -> priority: 1 
+  Thread -> id: 974 -> priority: 1 
+  Thread -> id: 608 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.905367 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 394.
+Total: 1.040986 ms (FindLiveObjects: 0.020938 ms CreateObjectMapping: 0.010666 ms MarkObjects: 0.203456 ms  DeleteObjects: 0.804739 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.523455 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 0.184098 ms (FindLiveObjects: 0.022123 ms CreateObjectMapping: 0.010666 ms MarkObjects: 0.140641 ms  DeleteObjects: 0.009876 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.336196 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 401.
+Total: 0.237036 ms (FindLiveObjects: 0.038715 ms CreateObjectMapping: 0.011061 ms MarkObjects: 0.180147 ms  DeleteObjects: 0.005925 ms)
+
+Scene with build index: 3 couldn't be loaded because it has not been added to the build settings.
+To add a scene to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 136)
+
